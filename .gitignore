@@ -1,1 +1,3 @@
-Gapminer_not used
+__pycache__
+.ipynb_checkpoints/
+Ipython-notebook-extensions
