@@ -10,7 +10,7 @@
 6. Pearson correlation
 7. Linear regression
 
-# Fertility and kids ander 5 y.o. mortality rate 
+# Fertility and kids under 5 y.o. mortality rate 
 
 ## Intorduction
 It's a training project to discover trends and correlations between fertility, children mortality under 5y.o., income level and life expectancy in different regions.
