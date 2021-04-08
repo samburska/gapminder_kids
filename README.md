@@ -21,6 +21,7 @@ It's a training project to discover trends and correlations between fertility, c
 
 ## Observations and conclusions:
 1. There were about 2.2 children per woman in 2020 for mostly number of countries (50%):
+
 ![](images/hist_kids_2020.jpg)
 
 On the following chart we can observe ecdf chart of fertility in 2020. 
@@ -35,22 +36,24 @@ On the following chart we can observe ecdf chart of fertility in 2020.
 
 ![](images/forecast_fertility.jpg)
 
-
 4. Fertility analyse by region. I've prepared several different types of chart to find the best way to visualise trends. Europe and North America donèt have a big variety, nevertheless Asia, Africa and Oceania regions shows big diversity depending on country.
 
 ![](images/swarmplot_kids_by_region_2020.jpg)
 ![](images/boxplot_kids_2020.jpg)
 
 5. There is a strong correlation (pearson correlation is 0.86) of mortality rate and number of children per woman that we can also observe on the following charts. Also, we can see that during last century there is also a tendency of decreasing chilt mortality as well as number of child per woman.
+
 ![](images/correlation_trends.jpg)
 
 Regression lines looks like:
+
 ![](images/trends_century_fert_mort.jpg)
 
 Tendency for years 1900-2020 we can observe on the following chart:
 ![](images/kids_mort_trends_century.jpg)
 
 6. Correlation between number of children and life expectancy is also strong but negative (-0.78). Here we can observe also that countries with higher income trend to have higher life expectancy (that is obviouse) and less children per woman.
+
 ![](images/kids_life_exp_2020.jpg)
 
 ## Examples of use
